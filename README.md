@@ -1,3 +1,5 @@
+![Build](https://github.com/downdrown/somfy-open-api-client/actions/workflows/build.yml/badge.svg)
+
 # Somfy Open API Client
 
 Somfy Open API Client is a Java library for easy interaction with Somfy's Open API.
