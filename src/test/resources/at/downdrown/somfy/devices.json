@@ -1,0 +1,895 @@
+[
+    {
+        "id": "1",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Badezimmer EG",
+        "available": true
+    },
+    {
+        "id": "2",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Badezimmer OG (gr.)",
+        "available": true
+    },
+    {
+        "id": "3",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Stiegenaufgang",
+        "available": true
+    },
+    {
+        "id": "4",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Wohnzimmerfenster",
+        "available": true
+    },
+    {
+        "id": "5",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Büro",
+        "available": true
+    },
+    {
+        "id": "6",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Badezimmer OG (kl.)",
+        "available": true
+    },
+    {
+        "id": "7",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Schlafzimmer (kl.)",
+        "available": true
+    },
+    {
+        "id": "8",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 85,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Panoramafenster",
+        "available": true
+    },
+    {
+        "id": "9",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "WC OG",
+        "available": true
+    },
+    {
+        "id": "10",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Kinderzimmer 2",
+        "available": true
+    },
+    {
+        "id": "11",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Schlafzimmer (gr.)",
+        "available": true
+    },
+    {
+        "id": "12",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 85,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Terrassentür",
+        "available": true
+    },
+    {
+        "id": "13",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Küche (gr.)",
+        "available": true
+    },
+    {
+        "id": "14",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Kinderzimmer 1",
+        "available": true
+    },
+    {
+        "id": "15",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Küche (kl.)",
+        "available": true
+    },
+    {
+        "id": "16",
+        "type": "roller_shutter_positionable_stateful_rs100",
+        "parent_id": "1234-5678-91011-121314",
+        "categories": [
+            "actuator",
+            "roller_shutter"
+        ],
+        "states": [
+            {
+                "name": "position",
+                "value": 0,
+                "type": "integer"
+            }
+        ],
+        "capabilities": [
+            {
+                "name": "position_low_speed",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "position",
+                "parameters": [
+                    {
+                        "name": "position",
+                        "type": "integer"
+                    }
+                ]
+            },
+            {
+                "name": "close",
+                "parameters": []
+            },
+            {
+                "name": "identify",
+                "parameters": []
+            },
+            {
+                "name": "open",
+                "parameters": []
+            },
+            {
+                "name": "stop",
+                "parameters": []
+            }
+        ],
+        "site_id": "1234-5678-91011-121314",
+        "name": "Gästezimmer",
+        "available": true
+    },
+    {
+        "id": "17",
+        "type": "hub_connexoon",
+        "categories": [
+            "hub"
+        ],
+        "states": [],
+        "capabilities": [],
+        "site_id": "1234-5678-91011-121314",
+        "name": "CONNEXOON",
+        "available": true,
+        "version": "2021.2.4-17"
+    }
+]
